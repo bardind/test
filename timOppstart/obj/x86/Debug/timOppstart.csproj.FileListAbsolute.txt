@@ -1,0 +1,13 @@
+C:\Git\baard\test\timOppstart\timOppstart\bin\Debug\timOppstart.exe
+C:\Git\baard\test\timOppstart\timOppstart\bin\Debug\timOppstart.pdb
+C:\Git\baard\test\timOppstart\timOppstart\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Git\baard\test\timOppstart\timOppstart\obj\x86\Debug\timOppstart.exe
+C:\Git\baard\test\timOppstart\timOppstart\obj\x86\Debug\timOppstart.pdb
+C:\Git\baard\timOppstart\timOppstart\obj\x86\Debug\timOppstart.exe
+C:\Git\baard\timOppstart\timOppstart\obj\x86\Debug\timOppstart.pdb
+C:\Git\baard\timOppstart\timOppstart\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Git\baard\timOppstart\timOppstart\bin\Debug\timOppstart.exe
+C:\Git\baard\timOppstart\timOppstart\bin\Debug\timOppstart.pdb
+C:\Git\baard\timOppstart\timOppstart\bin\Debug\nunit.framework.dll
+C:\Git\baard\timOppstart\timOppstart\bin\Debug\Timpex.IoC.dll
+C:\Git\baard\timOppstart\timOppstart\bin\Debug\Timpex.IoC.pdb

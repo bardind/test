@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{3E9FF8DE-EC89-4684-81B8-CE070477FF5D}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>timOppstart</RootNamespace>
+    <AssemblyName>timOppstart</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="nunit.framework">
+      <HintPath>..\..\tools\Nunit\nunit.framework.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Timpex.IoC">
+      <HintPath>..\..\lib\Timpex.IoC.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Lecture04\AdvancedTimpexPrinter.cs" />
+    <Compile Include="Lecture04\CorePrinter.cs" />
+    <Compile Include="Lecture04\Counter.cs" />
+    <Compile Include="Lecture04\PexPrinter.cs" />
+    <Compile Include="Lecture04\TimpexPrinter.cs" />
+    <Compile Include="Lecture04\TimPrinter.cs" />
+    <Compile Include="Lecture04\_Spec\FakeCorePrinter.cs" />
+    <Compile Include="Lecture04\_Spec\_AdvancedTimpexPrinter\FakePexPrinter.cs" />
+    <Compile Include="Lecture04\_Spec\_AdvancedTimpexPrinter\FakeTimpexPrinter.cs" />
+    <Compile Include="Lecture04\_Spec\_AdvancedTimpexPrinter\FakeTimPrinter.cs" />
+    <Compile Include="Lecture04\_Spec\_AdvancedTimpexPrinter\FakeCounter.cs" />
+    <Compile Include="Lecture04\_Spec\_AdvancedTimpexPrinter\GivenCounterDecideOther\When_Printing.cs" />
+    <Compile Include="Lecture04\_Spec\_AdvancedTimpexPrinter\GivenCounterDecidePex\When_Printing.cs" />
+    <Compile Include="Lecture04\_Spec\_AdvancedTimpexPrinter\GivenCounterDecideTim\When_Printing.cs" />
+    <Compile Include="Lecture04\_Spec\_AdvancedTimpexPrinter\Integration\When_Printing.cs" />
+    <Compile Include="Lecture04\_Spec\_AdvancedTimpexPrinter\GivenCounterDecideTimpex\When_Printing.cs" />
+    <Compile Include="Lecture04\_Spec\_CorePrinter\When_Printing.cs" />
+    <Compile Include="Lecture04\_Spec\_PexPrinter\When_Printing.cs" />
+    <Compile Include="Lecture04\_Spec\_TimpexPrinter\When_Printing.cs" />
+    <Compile Include="Lecture04\_Spec\_TimPrinter\When_Printing.cs" />
+    <Compile Include="Lecture02\AdvancedTimpexPrinter.cs" />
+    <Compile Include="Lecture02\_Spec\When_Printing.cs" />
+    <Compile Include="Lecture03\AdvancedTimpexPrinter.cs" />
+    <Compile Include="Lecture03\CorePrinter.cs" />
+    <Compile Include="Lecture03\TimpexPrinter.cs" />
+    <Compile Include="Lecture03\PexPrinter.cs" />
+    <Compile Include="Lecture03\TimPrinter.cs" />
+    <Compile Include="Lecture03\_Spec\_AdvancedTimpexPrinter\FakePexPrinter.cs" />
+    <Compile Include="Lecture03\_Spec\_AdvancedTimpexPrinter\FakeTimpexPrinter.cs" />
+    <Compile Include="Lecture03\_Spec\_AdvancedTimpexPrinter\FakeTimPrinter.cs" />
+    <Compile Include="Lecture03\_Spec\_AdvancedTimpexPrinter\Integration\When_Printing.cs" />
+    <Compile Include="Lecture03\_Spec\_AdvancedTimpexPrinter\When_Printing.cs" />
+    <Compile Include="Lecture03\_Spec\_CorePrinter\When_Printing.cs" />
+    <Compile Include="Lecture03\_Spec\FakeCorePrinter.cs" />
+    <Compile Include="Lecture03\_Spec\_PexPrinter\When_Printing.cs" />
+    <Compile Include="Lecture03\_Spec\_TimpexPrinter\When_Printing.cs" />
+    <Compile Include="Lecture03\_Spec\_TimPrinter\When_Printing.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Lecture01\TimpexPrinter.cs" />
+    <Compile Include="Lecture01\_Spec\_TimpexPrinter\When_Printing.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Lecture04\_Spec\_Counter\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

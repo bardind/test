@@ -1,0 +1,219 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="3E9FF8DE-EC89-4684-81B8-CE070477FF5D/d:Lecture03/f:AdvancedTimpexPrinter.cs" caret="687" fromTop="9" />
+      <File id="3E9FF8DE-EC89-4684-81B8-CE070477FF5D/d:Lecture04/f:CorePrinter.cs" caret="0" fromTop="0" />
+      <File id="3E9FF8DE-EC89-4684-81B8-CE070477FF5D/d:Lecture04/d:_Spec/d:_PexPrinter/f:When_Printing.cs" caret="502" fromTop="14" />
+      <File id="3E9FF8DE-EC89-4684-81B8-CE070477FF5D/d:Lecture04/f:PexPrinter.cs" caret="162" fromTop="6" />
+      <File id="3E9FF8DE-EC89-4684-81B8-CE070477FF5D/d:Lecture04/d:_Spec/d:_TimPrinter/f:When_Printing.cs" caret="128" fromTop="5" />
+      <File id="3E9FF8DE-EC89-4684-81B8-CE070477FF5D/d:Lecture04/d:_Spec/d:_TimpexPrinter/f:When_Printing.cs" caret="514" fromTop="14" />
+      <File id="3E9FF8DE-EC89-4684-81B8-CE070477FF5D/d:Lecture04/d:_Spec/f:FakeCorePrinter.cs" caret="0" fromTop="0" />
+      <File id="3E9FF8DE-EC89-4684-81B8-CE070477FF5D/d:Lecture03/f:PexPrinter.cs" caret="0" fromTop="0" />
+      <File id="3E9FF8DE-EC89-4684-81B8-CE070477FF5D/d:Lecture03/d:_Spec/d:_AdvancedTimpexPrinter/f:FakePexPrinter.cs" caret="0" fromTop="0" />
+      <File id="3E9FF8DE-EC89-4684-81B8-CE070477FF5D/d:Lecture04/d:_Spec/d:_AdvancedTimpexPrinter/f:FakeTimpexPrinter.cs" caret="353" fromTop="13" />
+      <File id="3E9FF8DE-EC89-4684-81B8-CE070477FF5D/d:Lecture04/f:TimpexPrinter.cs" caret="324" fromTop="12" />
+      <File id="3E9FF8DE-EC89-4684-81B8-CE070477FF5D/d:Lecture04/f:TimPrinter.cs" caret="0" fromTop="0" />
+      <File id="3E9FF8DE-EC89-4684-81B8-CE070477FF5D/d:Lecture04/d:_Spec/d:_AdvancedTimpexPrinter/f:FakeTimPrinter.cs" caret="84" fromTop="1" />
+      <File id="3E9FF8DE-EC89-4684-81B8-CE070477FF5D/d:Lecture04/d:_Spec/d:_AdvancedTimpexPrinter/d:GivenCounterDecideTimpex/f:When_Printing.cs" caret="235" fromTop="0" />
+      <File id="3E9FF8DE-EC89-4684-81B8-CE070477FF5D/d:Lecture03/d:_Spec/d:_AdvancedTimpexPrinter/d:Integration/f:When_Printing.cs" caret="0" fromTop="0" />
+      <File id="3E9FF8DE-EC89-4684-81B8-CE070477FF5D/d:Lecture04/d:_Spec/d:_AdvancedTimpexPrinter/d:Integration/f:When_Printing.cs" caret="141" fromTop="5" />
+      <File id="3E9FF8DE-EC89-4684-81B8-CE070477FF5D/d:Lecture04/d:_Spec/d:_AdvancedTimpexPrinter/d:GivenCounterDecideTim/f:When_Printing.cs" caret="0" fromTop="0" />
+      <File id="3E9FF8DE-EC89-4684-81B8-CE070477FF5D/d:Lecture02/f:AdvancedTimpexPrinter.cs" caret="0" fromTop="0" />
+      <File id="3E9FF8DE-EC89-4684-81B8-CE070477FF5D/d:Lecture04/d:_Spec/d:_AdvancedTimpexPrinter/f:FakePexPrinter.cs" caret="308" fromTop="11" />
+      <File id="3E9FF8DE-EC89-4684-81B8-CE070477FF5D/d:Lecture03/f:CorePrinter.cs" caret="0" fromTop="0" />
+      <File id="3E9FF8DE-EC89-4684-81B8-CE070477FF5D/d:Lecture03/d:_Spec/f:FakeCorePrinter.cs" caret="0" fromTop="0" />
+      <File id="3E9FF8DE-EC89-4684-81B8-CE070477FF5D/d:Lecture03/d:_Spec/d:_CorePrinter/f:When_Printing.cs" caret="1168" fromTop="14" />
+      <File id="3E9FF8DE-EC89-4684-81B8-CE070477FF5D/d:Lecture04/d:_Spec/d:_AdvancedTimpexPrinter/d:GivenCounterDecidePex/f:When_Printing.cs" caret="445" fromTop="9" />
+      <File id="3E9FF8DE-EC89-4684-81B8-CE070477FF5D/d:Lecture04/d:_Spec/d:_AdvancedTimpexPrinter/d:GivenCounterDecideOther/f:When_Printing.cs" caret="1145" fromTop="24" />
+      <File id="3E9FF8DE-EC89-4684-81B8-CE070477FF5D/d:Lecture04/f:AdvancedTimpexPrinter.cs" caret="665" fromTop="7" />
+      <File id="3E9FF8DE-EC89-4684-81B8-CE070477FF5D/d:Lecture04/f:Counter.cs" caret="0" fromTop="0" />
+      <File id="3E9FF8DE-EC89-4684-81B8-CE070477FF5D/d:Lecture04/d:_Spec/d:_AdvancedTimpexPrinter/f:FakeCounter.cs" caret="1073" fromTop="15" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="3E9FF8DE-EC89-4684-81B8-CE070477FF5D/d:Lecture04/d:_Spec/d:_AdvancedTimpexPrinter/d:GivenCounterDecideTim/f:When_Printing.cs" caret="1666" fromTop="56" />
+      <File id="3E9FF8DE-EC89-4684-81B8-CE070477FF5D/d:Lecture04/d:_Spec/d:_AdvancedTimpexPrinter/d:GivenCounterDecidePex/f:When_Printing.cs" caret="205" fromTop="6" />
+      <File id="3E9FF8DE-EC89-4684-81B8-CE070477FF5D/d:Lecture04/d:_Spec/d:_AdvancedTimpexPrinter/d:GivenCounterDecidePex/f:When_Printing.cs" caret="842" fromTop="14" />
+      <File id="3E9FF8DE-EC89-4684-81B8-CE070477FF5D/d:Lecture04/d:_Spec/d:_AdvancedTimpexPrinter/d:GivenCounterDecidePex/f:When_Printing.cs" caret="1563" fromTop="18" />
+      <File id="3E9FF8DE-EC89-4684-81B8-CE070477FF5D/d:Lecture04/d:_Spec/d:_AdvancedTimpexPrinter/d:GivenCounterDecidePex/f:When_Printing.cs" caret="1031" fromTop="18" />
+      <File id="3E9FF8DE-EC89-4684-81B8-CE070477FF5D/d:Lecture04/d:_Spec/d:_AdvancedTimpexPrinter/d:GivenCounterDecidePex/f:When_Printing.cs" caret="642" fromTop="12" />
+      <File id="3E9FF8DE-EC89-4684-81B8-CE070477FF5D/d:Lecture04/d:_Spec/d:_AdvancedTimpexPrinter/d:GivenCounterDecidePex/f:When_Printing.cs" caret="1252" fromTop="16" />
+      <File id="3E9FF8DE-EC89-4684-81B8-CE070477FF5D/d:Lecture04/d:_Spec/d:_AdvancedTimpexPrinter/f:FakeCounter.cs" caret="1218" fromTop="18" />
+      <File id="3E9FF8DE-EC89-4684-81B8-CE070477FF5D/d:Lecture04/f:Counter.cs" caret="560" fromTop="18" />
+      <File id="3E9FF8DE-EC89-4684-81B8-CE070477FF5D/d:Lecture04/d:_Spec/d:_AdvancedTimpexPrinter/d:GivenCounterDecideOther/f:When_Printing.cs" caret="817" fromTop="10" />
+      <File id="3E9FF8DE-EC89-4684-81B8-CE070477FF5D/d:Lecture04/d:_Spec/d:_AdvancedTimpexPrinter/d:GivenCounterDecideOther/f:When_Printing.cs" caret="709" fromTop="15" />
+      <File id="3E9FF8DE-EC89-4684-81B8-CE070477FF5D/d:Lecture04/d:_Spec/d:_AdvancedTimpexPrinter/f:FakeCounter.cs" caret="1595" fromTop="20" />
+      <File id="3E9FF8DE-EC89-4684-81B8-CE070477FF5D/d:Lecture04/f:Counter.cs" caret="859" fromTop="22" />
+      <File id="3E9FF8DE-EC89-4684-81B8-CE070477FF5D/d:Lecture04/d:_Spec/d:_AdvancedTimpexPrinter/d:GivenCounterDecideOther/f:When_Printing.cs" caret="1488" fromTop="12" />
+      <File id="3E9FF8DE-EC89-4684-81B8-CE070477FF5D/d:Lecture04/d:_Spec/d:_AdvancedTimpexPrinter/f:FakeCounter.cs" caret="622" fromTop="18" />
+      <File id="3E9FF8DE-EC89-4684-81B8-CE070477FF5D/d:Lecture04/d:_Spec/d:_AdvancedTimpexPrinter/f:FakeCounter.cs" caret="510" fromTop="12" />
+      <File id="3E9FF8DE-EC89-4684-81B8-CE070477FF5D/d:Lecture04/f:Counter.cs" caret="717" fromTop="16" />
+      <File id="3E9FF8DE-EC89-4684-81B8-CE070477FF5D/d:Lecture04/f:AdvancedTimpexPrinter.cs" caret="1074" fromTop="12" />
+      <File id="3E9FF8DE-EC89-4684-81B8-CE070477FF5D/d:Lecture04/d:_Spec/d:_AdvancedTimpexPrinter/f:FakeCounter.cs" caret="314" fromTop="0" />
+      <File id="3E9FF8DE-EC89-4684-81B8-CE070477FF5D/d:Lecture04/d:_Spec/d:_AdvancedTimpexPrinter/f:FakeCounter.cs" caret="1561" fromTop="24" />
+      <File id="3E9FF8DE-EC89-4684-81B8-CE070477FF5D/d:Lecture04/d:_Spec/d:_AdvancedTimpexPrinter/f:FakeCounter.cs" caret="1343" fromTop="9" />
+      <File id="3E9FF8DE-EC89-4684-81B8-CE070477FF5D/d:Lecture04/d:_Spec/d:_AdvancedTimpexPrinter/d:GivenCounterDecideOther/f:When_Printing.cs" caret="937" fromTop="10" />
+      <File id="3E9FF8DE-EC89-4684-81B8-CE070477FF5D/d:Lecture04/d:_Spec/d:_AdvancedTimpexPrinter/d:GivenCounterDecideOther/f:When_Printing.cs" caret="645" fromTop="7" />
+      <File id="3E9FF8DE-EC89-4684-81B8-CE070477FF5D/d:Lecture04/d:_Spec/d:_AdvancedTimpexPrinter/d:GivenCounterDecideOther/f:When_Printing.cs" caret="888" fromTop="22" />
+      <File id="3E9FF8DE-EC89-4684-81B8-CE070477FF5D/d:Lecture04/d:_Spec/d:_AdvancedTimpexPrinter/d:GivenCounterDecideOther/f:When_Printing.cs" caret="1051" fromTop="27" />
+      <File id="3E9FF8DE-EC89-4684-81B8-CE070477FF5D/d:Lecture04/f:AdvancedTimpexPrinter.cs" caret="665" fromTop="7" />
+      <File id="3E9FF8DE-EC89-4684-81B8-CE070477FF5D/d:Lecture04/d:_Spec/d:_AdvancedTimpexPrinter/f:FakeCounter.cs" caret="1496" fromTop="13" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="Console`0" priority="2" />
+      <Item value="AsyncCallback`0" priority="2" />
+      <Item value="private" priority="12" />
+      <Item value="void" priority="4" />
+      <Item value="startUtskrift`0" priority="0" />
+      <Item value="Int16`0" priority="0" />
+      <Item value="int" priority="11" />
+      <Item value="i" priority="5" />
+      <Item value="string" priority="6" />
+      <Item value="utskrift" priority="4" />
+      <Item value="static" priority="0" />
+      <Item value="out" priority="0" />
+      <Item value="FinnUtskrift`0" priority="0" />
+      <Item value="_TimpexPrinter" priority="0" />
+      <Item value="TimpexPrinter`0" priority="11" />
+      <Item value="interface" priority="1" />
+      <Item value="as" priority="0" />
+      <Item value="Assert`0" priority="0" />
+      <Item value="return" priority="18" />
+      <Item value="ReturnValues" priority="1" />
+      <Item value="for" priority="0" />
+      <Item value="new" priority="12" />
+      <Item value="_counter" priority="14" />
+      <Item value="var" priority="2" />
+      <Item value="returnVal" priority="0" />
+      <Item value="if" priority="3" />
+      <Item value="finnVerdi`0" priority="0" />
+      <Item value="_i" priority="0" />
+      <Item value="true" priority="0" />
+      <Item value="false" priority="2" />
+      <Item value="EnvironmentVariableTarget`0" priority="0" />
+      <Item value="printer" priority="4" />
+      <Item value="_counterTim" priority="2" />
+      <Item value="public" priority="9" />
+      <Item value="TimPrinter`0" priority="9" />
+      <Item value="_timPrinter" priority="4" />
+      <Item value="valueFromTimPrinter" priority="2" />
+      <Item value="throw" priority="2" />
+      <Item value="NotImplementedException" priority="2" />
+      <Item value="override" priority="4" />
+      <Item value="_value" priority="0" />
+      <Item value="AdvancedTimpexPrinter`0" priority="2" />
+      <Item value="_pexPrinter" priority="1" />
+      <Item value="_timpexPrinter" priority="1" />
+      <Item value="valueFromPexPrinter" priority="0" />
+      <Item value="valueFromTimpexPrinter" priority="0" />
+      <Item value="text" priority="0" />
+      <Item value="CorePrinter`0" priority="0" />
+      <Item value="_corePrinter" priority="3" />
+      <Item value="corePrinter" priority="0" />
+      <Item value="FakePexPrinter`0" priority="1" />
+      <Item value="prop" priority="0" />
+      <Item value="InversionOfControlContainer`0" priority="0" />
+      <Item value="_ioc" priority="0" />
+      <Item value="readonly" priority="0" />
+      <Item value="Counter`0" priority="2" />
+      <Item value="ValueFromTimpexPrinter" priority="0" />
+      <Item value="_returnedValue" priority="0" />
+      <Item value="Counter" priority="1" />
+      <Item value="FakeCounter" priority="0" />
+      <Item value="nextCounter" priority="0" />
+      <Item value="virtual" priority="0" />
+      <Item value="ValueType`0" priority="0" />
+      <Item value="_nextCounter" priority="0" />
+      <Item value="bool" priority="0" />
+      <Item value="value" priority="0" />
+      <Item value="_isTimpexValue" priority="2" />
+      <Item value="NextCounter" priority="2" />
+      <Item value="_isTimValue" priority="0" />
+      <Item value="null" priority="0" />
+      <Item value="FakeTimPrinter" priority="0" />
+      <Item value="FakeTimpexPrinter" priority="0" />
+      <Item value="_otherValue" priority="0" />
+      <Item value="ValueFromCounter" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="Out" priority="1" />
+      <Item value="Write`0" priority="0" />
+      <Item value="WriteLine`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NUnit.Framework.Assert">
+      <Item value="AreEqual`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:timOppstart.TimpexPrinter">
+      <Item value="PrintLine`0" priority="0" />
+      <Item value="getCounterTim" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:timOppstart.Lecture02.TimPrinter">
+      <Item value="IncrementCounter" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:timOppstart.Lecture03.TimPrinter">
+      <Item value="Print`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:timOppstart.Lecture03.TimpexPrinter">
+      <Item value="Print`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:timOppstart.Lecture03.CorePrinter">
+      <Item value="Print`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Timpex.Ioc">
+      <Item value="Resolve`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:timOppstart.Lecture03.AdvancedTimpexPrinter">
+      <Item value="PrintLine`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:timOppstart.Lecture04.AdvancedTimpexPrinter">
+      <Item value="PrintLine`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:timOppstart.Lecture04._Spec._AdvancedTimpexPrinter.GivenTimpex.FakeCounter">
+      <Item value="IsTimpexShouldReturn`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:timOppstart.Lecture04.TimpexPrinter">
+      <Item value="Print`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:timOppstart.Lecture04.Counter">
+      <Item value="IsTim" priority="1" />
+      <Item value="IsTimpex" priority="1" />
+      <Item value="Increment`0" priority="1" />
+      <Item value="IsPex" priority="0" />
+      <Item value="IsOtherValue" priority="0" />
+      <Item value="ToString`0" priority="0" />
+      <Item value="OtherCounter" priority="0" />
+      <Item value="CounterValue" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:timOppstart.Lecture04.TimPrinter">
+      <Item value="Print`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:timOppstart.Lecture04.PexPrinter">
+      <Item value="Print`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:timOppstart.Lecture04._Spec._AdvancedTimpexPrinter.FakeCounter">
+      <Item value="OtherValueShouldReturn`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
